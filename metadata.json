@@ -1,0 +1,6 @@
+{
+  "name": "Imperativo Quiz Game",
+  "description": "A two-player Spanish imperative verbs educational quiz game featuring an interactive spinning wheel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
